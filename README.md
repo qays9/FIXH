@@ -1,5 +1,5 @@
 ### FIXH Tool
-<sub> 
+```bash
 ┌──(qays93㉿hidden)-[~/Downloads]
 └─$ python3 FIXH.py hidde2.png hola2.png
 [07:09:48] hex 1 complete                                                                               FIXH.py:13
@@ -18,4 +18,4 @@ Header of hidde2.png fixed and saved to hola2.png.
 [07:10:52] hex 4 complete                                                                               FIXH.py:13
 Header of /home/qays93/Desktop/hex_img/o.jpg fixed and saved to hola2.jpg.
 
-</sub>
+```
